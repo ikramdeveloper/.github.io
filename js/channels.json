@@ -110,11 +110,11 @@
           "Flexbox",
           "Grid",
           "Inputs",
-          "Scrolling",
+          " Scrolling",
           "Cards",
           "Buttons",
           "Hamburger",
-          "Pseudo"
+          " Pseudo"
         ],
         "js": ["JS Calculator"],
         "miscellaneous": ["Light/Dark Theme"]
