@@ -1,0 +1,421 @@
+{
+  "channels": [
+    {
+      "name": "Net Ninja",
+      "link": "https://www.youtube.com/c/TheNetNinja",
+      "img": "https://img.youtube.com/vi/zbzHknx4XuY/mqdefault.jpg",
+      "country": "UK",
+      "courses": {
+        "php": ["Php", "Laravel 6"],
+        "js": [
+          "JavaScript",
+          "TypeScript",
+          "React JS",
+          "Material UI React",
+          "Node JS",
+          "Vue JS",
+          "Next JS",
+          "Svelte"
+        ],
+
+        "css": [
+          "SASS",
+          "Tailwind CSS",
+          "Materialize CSS",
+          "Bulma CSS",
+          "Bootstrap 5"
+        ],
+        "stores": ["Firebase", "Flutter", "Github Pages"],
+        "design": ["Adobe XD"],
+        "miscellaneous": ["Regex"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Programming With Mosh",
+      "link": "https://www.youtube.com/c/programmingwithmosh/",
+      "img": "https://img.youtube.com/vi/7S_tz1z_5bA/mqdefault.jpg",
+      "country": "AUS",
+      "courses": {
+        "php": ["MySQL"],
+        "js": [
+          "JavaScript",
+          "TypeScript",
+          "React Native",
+          "Node JS",
+          "Angular JS"
+        ],
+
+        "miscellaneous": ["Regex", "Git", "Docker"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Web Dev Simplified",
+      "link": "https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
+      "img": "https://img.youtube.com/vi/fgTGADljAeg/mqdefault.jpg",
+      "country": "US",
+      "courses": {
+        "js": [
+          "JavaScript",
+          "React JS",
+          "Node JS",
+          "Full Stack",
+          "Clones With React",
+          "Redis"
+        ],
+        "db": ["MongoDB"],
+        "css": ["Html", "CSS"],
+        "api": ["Rest API", "Notion API", "GraphQL", "Mapbox"],
+        "payments": ["Stripe(Node) ", "Paypal(Node)"],
+        "stores": ["Firebase"],
+        "miscellaneous": ["VS Code", "Git"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "The Codeholic",
+      "link": "https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w",
+      "img": "https://img.youtube.com/vi/r9ndOH0tyfA/mqdefault.jpg",
+      "country": "Georgia",
+      "courses": {
+        "php": ["Php", "OOP Php", "MVC", "yii2"],
+        "js": ["JavaScript", "Vue JS"],
+        "miscellaneous": ["VS Code", "Php Storm", "WebPack", "Git and Github"]
+      },
+      "special": [
+        {
+          "name": "Web Development on Ubuntu",
+          "link": "https://www.youtube.com/watch?v=nQVvtC_V1ZQ"
+        }
+      ],
+      "double": false
+    },
+
+    {
+      "name": "Kevin Powell",
+      "link": "https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw",
+      "img": "https://img.youtube.com/vi/YZWSIdfM__s/mqdefault.jpg",
+      "country": "Canada",
+      "courses": {
+        "css": [
+          "Html",
+          "CSS",
+          "Flexbox",
+          "Grid",
+          "Inputs",
+          "Scrolling",
+          "Cards",
+          "Buttons",
+          "Hamburger",
+          "Pseudo"
+        ],
+        "js": ["JS Calculator"],
+        "miscellaneous": ["Light/Dark Theme"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Fireship",
+      "link": "https://www.youtube.com/c/Fireship/playlists",
+      "img": "https://img.youtube.com/vi/emFMHH2Bfvo/mqdefault.jpg",
+      "country": "US",
+      "courses": {
+        "js": ["JavaScript", "React JS", "Angular JS"],
+        "stores": ["Firebase", "Flutter"],
+        "miscellaneous": [
+          "VS Code",
+          "Get Paid with Crypto",
+          "Frontend Mini Projects"
+        ]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Codding Addict",
+      "link": "https://www.youtube.com/c/CodingAddict/featured",
+      "img": "https://img.youtube.com/vi/GJ4yEJ7jJcI/mqdefault.jpg",
+      "country": "US",
+      "courses": {
+        "js": ["JavaScript", "React JS", "Node & Express", "Svelte"],
+        "css": ["Html", "CSS"],
+        "miscellaneous": ["15 JS Projects", "React Projects"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Florin Pop",
+      "link": "https://www.youtube.com/c/FlorinPop/",
+      "img": "https://img.youtube.com/vi/dtKciwk_si4/mqdefault.jpg",
+      "country": "Romania",
+      "courses": {
+        "js": [
+          "10 JS Projects in 10 Hours",
+          "10 JS Projects in 1 Hour",
+          "React JS"
+        ],
+        "db": ["MongoDB"],
+        "miscellaneous": ["FreeCodeCamp Tests", "CodeWars"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Learn Web Code",
+      "link": "https://www.youtube.com/user/LearnWebCode/videos",
+      "img": "https://img.youtube.com/vi/hbJiwm5YL5Q/mqdefault.jpg",
+      "country": "US",
+      "courses": {
+        "php": ["WP Theme", "WP Plugin"],
+        "js": ["JavaScript", "React JS", "Express"],
+        "css": ["CSS Grid"],
+        "db": ["MongoDB"],
+        "miscellaneous": ["Git"]
+      },
+      "special": [
+        {
+          "name": "Cookies, Sessions, JSON Web Tokens (JWT)",
+          "link": "https://www.youtube.com/watch?v=uXDnS5PcjCA"
+        }
+      ],
+      "double": false
+    },
+
+    {
+      "name": "Academind",
+      "link": "https://www.youtube.com/c/Academind/playlists",
+      "img": "https://img.youtube.com/vi/Dorf8i6lCuk/mqdefault.jpg",
+      "country": "Germany",
+      "courses": {
+        "php": ["Laravel + Angular/Vue", "Laravel Shop Cart"],
+        "js": [
+          "TypeScript",
+          "React JS",
+          "Angular JS",
+          "Vue JS",
+          "Nest JS",
+          "Svelte"
+        ],
+        "api": ["GraphQL"],
+        "css": ["CSS"],
+        "stores": ["Flutter", "Firebase"],
+        "miscellaneous": ["Regex", "Ionic", "Git"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "James Q Quick",
+      "link": "https://www.youtube.com/c/JamesQQuick/",
+      "img": "https://img.youtube.com/vi/oUZLx79AN1A/mqdefault.jpg",
+      "country": "US",
+      "courses": {
+        "js": ["JavaScript", "Next JS", "Svelte"],
+        "miscellaneous": ["VS Code"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Code With Dary",
+      "link": "https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw/featured",
+      "img": "https://img.youtube.com/vi/376vZ1wNYPA/mqdefault.jpg",
+      "country": "Netherland",
+      "courses": {
+        "php": ["Php", "OOP Php", "MySQL", "Laravel"],
+        "css": ["Tailwind CSS"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Program With Gio",
+      "link": "https://www.youtube.com/c/ProgramWithGio/",
+      "img": "https://img.youtube.com/vi/sVbEyFZKgqk/mqdefault.jpg",
+      "country": "US",
+      "courses": {
+        "php": ["Php", "Php Testing", "Laravel"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Quick Programming",
+      "link": "https://www.youtube.com/c/QuickProgramming/",
+      "img": "https://img.youtube.com/vi/PCGNmAK1ws4/mqdefault.jpg",
+      "country": "Zambia",
+      "courses": {
+        "php": ["Php", "OOP Php", "Laravel", "WP Theme", "Php Security"],
+        "js": ["JavaScript", "AJAX"],
+        "api": ["APIs in Php and JS"],
+        "miscellaneous": ["Regex"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Adrian Twarog",
+      "link": "https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ",
+      "img": "https://img.youtube.com/vi/cLhnubqavDg/mqdefault.jpg",
+      "country": "Australia",
+      "courses": {
+        "php": ["WP Theme"],
+        "js": ["React"],
+        "css": ["Bootstrap 5"],
+        "design": ["Figma", "Adobe XD"],
+        "stores": ["Flutter"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Coder Coder",
+      "link": "https://www.youtube.com/c/TheCoderCoder/playlists",
+      "img": "https://img.youtube.com/vi/MTc2CTYoszY/mqdefault.jpg",
+      "country": "US",
+      "courses": {
+        "js": ["Node JS App"],
+        "css": ["Pricing Block", "Accordion", "Footer With Grid"],
+        "miscellaneous": ["Free Hosting", "NPM", "Gulp 4"]
+      },
+      "special": [
+        {
+          "name": "FEM Social Media Dashboard",
+          "link": "https://www.youtube.com/watch?v=iL4irerdGdU&list=PLUWqFDiirlsu5az5EIyxe8ZddyNO_kDuP"
+        },
+        {
+          "name": "Product Page",
+          "link": "https://www.youtube.com/watch?v=9-y3V27_-2c&list=PLUWqFDiirlst7qk98-6rwQ3BtE6Uiy0CF"
+        },
+        {
+          "name": "Landing Page",
+          "link": "https://www.youtube.com/watch?v=BWS4IO5Wdsc&list=PLUWqFDiirlsuxYssi39u6SiaR9Xumd1_B"
+        },
+        {
+          "name": "Responsive Website",
+          "link": "https://www.youtube.com/watch?v=8w_kHIAkucA&list=PLUWqFDiirlsuYscECzks6zIZWr_Cfcx9k"
+        }
+      ],
+      "double": false
+    },
+
+    {
+      "name": "Design Course",
+      "link": "https://www.youtube.com/c/DesignCourse/playlists",
+      "img": "https://img.youtube.com/vi/D-h8L5hgW-w/mqdefault.jpg",
+      "country": "",
+      "courses": {
+        "js": ["Three JS", "Angular JS", "Vue JS Cryptocurrency"],
+        "css": ["Bootstrap 5"],
+        "design": ["Adobe XD"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
+      "name": "Traversy Media",
+      "link": "https://www.youtube.com/c/TraversyMedia",
+      "img": "https://img.youtube.com/vi/1L6oncFUu10/mqdefault.jpg",
+      "country": "US",
+      "courses": {
+        "php": [
+          "Php",
+          "Php Rest API",
+          "MySQL",
+          "Stripe API with PHP",
+          "Laravel",
+          "Codeigniter",
+          "WP Theme"
+        ],
+        "js": [
+          "JavaScript",
+          "TypeScript",
+          "React JS",
+          "Material UI React",
+          "Node JS",
+          "Vue JS",
+          "Angular JS",
+          "MERN Stack",
+          "JQuery"
+        ],
+
+        "css": ["SASS", "Bootstrap 5"],
+        "stores": ["Firebase"],
+        "design": ["Figma"],
+        "miscellaneous": ["Regex", "GraphQL"]
+      },
+      "special": [],
+      "double": true
+    },
+
+    {
+      "name": "FreeCodeCamp",
+      "link": "https://www.youtube.com/watch?v=jS4aFq5-91M",
+      "img": "https://img.youtube.com/vi/jS4aFq5-91M/mqdefault.jpg",
+      "country": "WorldWide",
+      "courses": {
+        "js": ["TypeScript, Node, Vue, React, MERN"],
+        "miscellaneous": ["Regex", "Git and Github"]
+      },
+      "special": [
+        {
+          "name": "Php, Laravel, Yii2",
+          "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkoMsX4hgwxbJZW4aB0cbaB"
+        },
+        {
+          "name": "WP, WP Theme, WP Plugin",
+          "link": "https://www.youtube.com/c/Freecodecamp/search?query=wordpress"
+        },
+        {
+          "name": "JS, ES6+, Async",
+          "link": "https://www.youtube.com/c/Freecodecamp/search?query=js"
+        },
+        {
+          "name": "JWT",
+          "link": "https://www.youtube.com/c/Freecodecamp/search?query=jwt"
+        },
+        {
+          "name": "Dropbox API",
+          "link": "https://www.youtube.com/watch?v=AzCQrjWQJs4"
+        },
+        {
+          "name": "CSS",
+          "link": "https://www.youtube.com/watch?v=CAgLAeykOyU&list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU"
+        },
+        {
+          "name": "Postman",
+          "link": "https://www.youtube.com/watch?v=VywxIQ2ZXw4"
+        },
+        {
+          "name": "Figma",
+          "link": "https://www.youtube.com/c/Freecodecamp/search?query=figma"
+        },
+        {
+          "name": "Ionic",
+          "link": "https://www.youtube.com/c/Freecodecamp/search?query=ionic"
+        }
+      ],
+      "double": true
+    }
+  ]
+}
