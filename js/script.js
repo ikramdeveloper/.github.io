@@ -20,6 +20,8 @@ getData();
 function displayChannelBox(data) {
   let html = "";
 
+  data = data.reverse();
+
   data.forEach((channel) => {
     const box = document.createElement("div");
     box.classList.add("box");
@@ -53,8 +55,9 @@ function displayChannelBox(data) {
               >
             </div>
     `;
+
     box.innerHTML = html;
-    thumbnails.appendChild(box);
+    thumbnails.prepend(box);
   });
 }
 
