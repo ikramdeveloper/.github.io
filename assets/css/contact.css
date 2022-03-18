@@ -24,6 +24,10 @@
   max-width: min(600px, 90%);
 }
 
+.copyright span b {
+  border-bottom: 1px dotted #fff;
+}
+
 /* .icons-section ul li {
   flex: 1 1 5rem;
 } */

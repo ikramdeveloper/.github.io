@@ -55,6 +55,27 @@
     },
 
     {
+      "name": "MacLinz Universal Channel",
+      "link": "https://www.youtube.com/c/MacLinzUniversalChannel/",
+      "img": "https://img.youtube.com/vi/xV7S8BhIeBo/mqdefault.jpg",
+      "country": "UK",
+      "courses": {
+        "js": [
+          "JavaScript",
+
+          "React JS",
+          "Styled Components",
+          "Node JS",
+          "Angular JS"
+        ],
+        "css": ["Html", "CSS", "SCSS"],
+        "miscellaneous": ["MERN", "Python"]
+      },
+      "special": [],
+      "double": false
+    },
+
+    {
       "name": "Web Dev Simplified",
       "link": "https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
       "img": "https://img.youtube.com/vi/fgTGADljAeg/mqdefault.jpg",
